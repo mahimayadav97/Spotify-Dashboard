@@ -21,7 +21,7 @@ The **Spotify 2024 Power BI Dashboard** is a data visualization project that unc
   - **Year Slicer**: Filter data by year (2017–2024)
   - **Date Range Picker**: Select custom date ranges for dynamic analysis
 - 💡 **Top Song vs. Average**: Metric card comparing the performance of the top song with the dataset average
-- 📊 **Streaming Growth Analysis**: Highlights a massive **+1871.9%** increase in average yearly streams
+- 📊 **Streaming Growth Analysis**: Highlights a massive increase in average yearly streams
 - ⚡ **Energy % Indicator**: Visualizes the average energy level of top songs (e.g., 83%)
 
 ---
