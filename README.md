@@ -39,4 +39,4 @@ The **Spotify 2024 Power BI Dashboard** is a data visualization project that unc
 
 This dashboard provides valuable insights for music analysts, data enthusiasts, and anyone interested in Spotify streaming trends.
 
-📄 **[View the Dashboard Report (PDF)]([link-to-your-pdf](https://github.com/mahimayadav97/Spotify-Dashboard/blob/main/Spotify%202024%20Dashboard.pdf))**
+📄 **[View the Dashboard Report (PDF)](https://github.com/mahimayadav97/Spotify-Dashboard/blob/main/Spotify%202024%20Dashboard.pdf)**
